@@ -1,3 +1,4 @@
+
 import Link from 'next/link'
 import Image from 'next/image'
 
@@ -19,7 +20,15 @@ export const Prizes = () => {
             width="450"
             height="450"
           />
-    
+          <div className="absolute top-0 left-0 right-0 bottom-0 flex justify-center items-center">
+            <p className="text-white text-2xl font-bold">Speakers for Entertainment</p>
+          </div>
+          <Image
+            src={"/images/prize_photos/speaker.png"}
+            alt="Headphones"
+            width="250"
+            height="250"
+          />
         </div>
 
         <div className="relative">
@@ -29,7 +38,17 @@ export const Prizes = () => {
             width="450"
             height="450"
           />
+          <div className="absolute top-0 left-0 right-0 bottom-0 flex justify-center items-center">
+            <p className="text-white text-2xl font-bold">Mouse for Social Good</p>
+          </div>
+          <Image
+            src={"/images/prize_photos/mouse2.png"}
+            alt="Mouse"
+            width="250"
+            height="250"
+          />
         </div>
+      
 
         <div className="relative">
           <Image
@@ -38,8 +57,16 @@ export const Prizes = () => {
             width="450"
             height="450"
           />
-
-        </div>
+          <div className="absolute top-0 left-0 right-0 bottom-0 flex justify-center items-center">
+            <p className="text-white text-2xl font-bold">Mouse Pad for Hacker's Favorite</p>
+          </div>
+          <Image
+            src={"/images/prize_photos/mousepad2.png"}
+            alt="Mousepad"
+            width="250"
+            height="250"
+          />
+          </div>
       </div>
     </div>
   )
