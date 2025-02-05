@@ -25,9 +25,9 @@ export const Application = () => {
             <div className="h-4"></div>
             <div className="h-4"></div>
 
-            <a href='https://bit.ly/3PUkw4R'>
+            <a href=''>
             <button className="btn btn-primary rounded-full text-xl border-none" style={{ backgroundColor: '#7275B6' }}>
-                Apply Now
+                Closed
             </button>
             </a>
         </div>
@@ -41,9 +41,9 @@ export const Application = () => {
             <p className="text-white font-bold text-center pb-2">Apply to be a judge that will rate and rank the work of all hackers.</p>
             <div className="h-4"></div>
             <div className="h-4"></div>
-            <a href='https://docs.google.com/forms/d/e/1FAIpQLSd-uMWQMbPGWr7lrueLpctAaYg23QsCSz92f9CtUcIVPZZqkg/viewform'>
+            <a href=''>
             <button className="btn btn-primary rounded-full text-xl border-none" style={{ backgroundColor: '#7275B6' }}>
-                Apply Now
+                Closed
             </button>
             </a>
         </div>
@@ -57,9 +57,9 @@ export const Application = () => {
             <p className="text-white font-bold text-center pb-2">Apply if you want to provide insight as a guest speaker during the event.</p>
             <div className="h-4"></div>
             <div className="h-4"></div>
-            <a href='https://docs.google.com/forms/d/e/1FAIpQLSd-uMWQMbPGWr7lrueLpctAaYg23QsCSz92f9CtUcIVPZZqkg/viewform'>
+            <a href=''>
             <button className="btn btn-primary rounded-full text-xl border-none" style={{ backgroundColor: '#7275B6' }}>
-                Apply Now
+                Closed
             </button>
             </a>
         </div>
